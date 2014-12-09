@@ -1,6 +1,6 @@
 # Marshall Webapp
 
-This is the Marshall Webapp for transient surveys and runs in concurrence with the PESSTO Marhsall Engine. 
+This is the Marshall Webapp for transient surveys and runs in concurrence with the PESSTO Marhshall Engine. 
 
 ![The Marshall Webapp](http://i.imgur.com/G2Oro5Q.png)
 
